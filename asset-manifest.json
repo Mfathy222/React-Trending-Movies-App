@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Trending-Movies-App/static/css/main.c19d9869.css",
+    "main.js": "/React-Trending-Movies-App/static/js/main.6559e58f.js",
+    "static/media/fa-solid-900.ttf": "/React-Trending-Movies-App/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
+    "static/media/fa-brands-400.ttf": "/React-Trending-Movies-App/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
+    "static/media/fa-solid-900.woff2": "/React-Trending-Movies-App/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/fa-brands-400.woff2": "/React-Trending-Movies-App/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
+    "static/media/fa-regular-400.ttf": "/React-Trending-Movies-App/static/media/fa-regular-400.146404900f7550a9719d.ttf",
+    "static/media/fa-regular-400.woff2": "/React-Trending-Movies-App/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/fa-v4compatibility.ttf": "/React-Trending-Movies-App/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "/React-Trending-Movies-App/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
+    "index.html": "/React-Trending-Movies-App/index.html",
+    "main.c19d9869.css.map": "/React-Trending-Movies-App/static/css/main.c19d9869.css.map",
+    "main.6559e58f.js.map": "/React-Trending-Movies-App/static/js/main.6559e58f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c19d9869.css",
+    "static/js/main.6559e58f.js"
+  ]
+}
